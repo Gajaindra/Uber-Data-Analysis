@@ -47,5 +47,5 @@ Step3: Visualization of Data
        Number of trips vs DAYS OF DECEMBER
  
        Pickup point vs frequency
-      
+       
 --------------------------------------------------------------------------------------------------------------------
